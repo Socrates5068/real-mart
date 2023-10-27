@@ -2,6 +2,24 @@
 
 This project was made for a mini project in school. Feel free to improve the code quality. Cheers!
 
+Pasos para levantar la aplicación:
+1. Tener instalado python 3.9 (recomendado 3.7)
+```
+>Python --version
+Python 3.9.9
+```
+2. abrir el proyecto y escribir lo siguente en la consola
+```
+main.py
+``` 
+
+3. iniciar sesión como administrador (click en el botón Admin)
+4. usar las siguientes credenciales
+```
+username: EMP0000
+password: admin
+```
+
 ## This repository consists of a GUI-based Retail Management System in Python(using tkinter). 
 
 ### Pre-Requisites
